@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Brahim Bachir Limam",
+	"description": "My fisrt backend application",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
