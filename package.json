@@ -1,9 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": {
-		"name": "Brahim Bachir Limam",
-		"email": "ibraalberola@gmail.com"
-	},
+	"author": "Brahim Bachir Limam",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
